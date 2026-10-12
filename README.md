@@ -1,4 +1,4 @@
-Computer Engineering Student | Aspiring Data Engineer
+Hello,
 
 I'm a final-semester Computer Engineering student at Shahid Bahonar University of Kerman, passionate about databases, data engineering, and building data-driven applications.
 
